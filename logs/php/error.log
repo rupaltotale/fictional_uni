@@ -1,0 +1,1015 @@
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:49:56 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:51:52 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:53:20 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 21:55:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str() in /app/public/wp-content/themes/fictional_university_theme/index.php:2
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/index.php(7): myFirstFunction('John', 'blue')
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[28-Jun-2018 22:38:32 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:39:10 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:39:12 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:39:12 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:39:12 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:39:38 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:40:36 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:40:46 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:40:48 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:40:53 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:40:54 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[28-Jun-2018 22:41:40 UTC] PHP Parse error:  syntax error, unexpected '?>' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 7
+[28-Jun-2018 23:10:02 UTC] PHP Parse error:  syntax error, unexpected 'get_footer' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/single.php on line 7
+[28-Jun-2018 23:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /app/public/wp-content/themes/fictional_university_theme/functions.php:8
+Stack trace:
+#0 /app/public/wp-settings.php(426): include()
+#1 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-admin/admin-ajax.php(22): require_once('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 8
+[28-Jun-2018 23:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_function() in /app/public/wp-content/themes/fictional_university_theme/functions.php:8
+Stack trace:
+#0 /app/public/wp-settings.php(426): include()
+#1 /app/public/wp-config.php(86): require_once('/app/public/wp-...')
+#2 /app/public/wp-load.php(37): require_once('/app/public/wp-...')
+#3 /app/public/wp-blog-header.php(13): require_once('/app/public/wp-...')
+#4 /app/public/index.php(17): require('/app/public/wp-...')
+#5 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 8
+[29-Jun-2018 00:01:50 UTC] PHP Parse error:  syntax error, unexpected '/' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[29-Jun-2018 00:02:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 75
+[29-Jun-2018 00:02:45 UTC] PHP Parse error:  syntax error, unexpected '/' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 75
+[30-Jun-2018 02:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_post_get_post_parent_ID() in /app/public/wp-content/themes/fictional_university_theme/page.php:15
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/page.php on line 15
+[30-Jun-2018 03:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/fictional_university_theme/page.php:17
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/page.php on line 17
+[30-Jun-2018 03:03:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/page.php on line 17 and exactly 1 expected in /app/public/wp-includes/post.php:6135
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/page.php(17): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6135
+[30-Jun-2018 03:04:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/page.php on line 17 and exactly 1 expected in /app/public/wp-includes/post.php:6135
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/page.php(17): wp_get_post_parent_id()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-includes/post.php on line 6135
+[30-Jun-2018 18:19:20 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING), expecting ';' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 38
+[30-Jun-2018 18:30:57 UTC] PHP Parse error:  syntax error, unexpected 'p_get_post_parent_ID' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/page.php on line 30
+[30-Jun-2018 18:31:53 UTC] PHP Parse error:  syntax error, unexpected 'et_pages' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/page.php on line 34
+[30-Jun-2018 18:32:06 UTC] PHP Parse error:  syntax error, unexpected 'children' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 34
+[30-Jun-2018 18:58:59 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/page.php on line 68
+[30-Jun-2018 19:02:08 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/page.php on line 67
+[30-Jun-2018 19:02:35 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/page.php on line 67
+[30-Jun-2018 19:08:31 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/page.php on line 70
+[30-Jun-2018 19:08:31 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/page.php on line 70
+[30-Jun-2018 19:08:50 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/page.php on line 70
+[30-Jun-2018 19:08:50 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/page.php on line 70
+[30-Jun-2018 19:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_ID() in /app/public/wp-content/themes/fictional_university_theme/page.php:68
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/page.php on line 68
+[30-Jun-2018 19:17:12 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/page.php on line 68
+[01-Jul-2018 00:56:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/fictional_university_theme/header.php on line 17
+[01-Jul-2018 01:02:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 22
+[01-Jul-2018 01:02:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 22
+[01-Jul-2018 01:02:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 22
+[01-Jul-2018 17:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_category_list() in /app/public/wp-content/themes/fictional_university_theme/index.php:20
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 20
+[01-Jul-2018 18:17:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/archive.php on line 40
+[01-Jul-2018 18:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /app/public/wp-content/themes/fictional_university_theme/archive.php:12
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive.php on line 12
+[01-Jul-2018 18:58:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WPQuery' not found in /app/public/wp-content/themes/fictional_university_theme/front-page.php:50
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 50
+[01-Jul-2018 18:58:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 15
+[01-Jul-2018 19:08:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_the_ID() in /app/public/wp-content/themes/fictional_university_theme/page.php:72
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/page.php on line 72
+[03-Jul-2018 22:07:38 UTC] PHP Parse error:  syntax error, unexpected ''post_type'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 22
+[03-Jul-2018 22:43:10 UTC] PHP Parse error:  syntax error, unexpected ''has_archive'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/mu-plugins/university-post-types.php on line 8
+[03-Jul-2018 23:29:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 41
+[03-Jul-2018 23:32:32 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 89
+[03-Jul-2018 23:32:32 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 89
+[03-Jul-2018 23:53:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /app/public/wp-content/themes/fictional_university_theme/header.php on line 19
+[03-Jul-2018 23:53:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/header.php on line 21
+[04-Jul-2018 01:41:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 19
+[04-Jul-2018 01:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/fictional_university_theme/archive-event.php:24
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive-event.php on line 24
+[04-Jul-2018 02:20:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 25
+[04-Jul-2018 02:21:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 23
+[04-Jul-2018 03:00:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/page-past-events.php on line 23
+[04-Jul-2018 22:47:40 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 46
+[04-Jul-2018 22:47:51 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 46
+[04-Jul-2018 22:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_the_title() in /app/public/wp-content/themes/fictional_university_theme/single-event.php:46
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 46
+[04-Jul-2018 22:55:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 48
+[04-Jul-2018 22:56:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 48
+[04-Jul-2018 22:57:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/single-event.php on line 51
+[04-Jul-2018 23:31:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 64
+[04-Jul-2018 23:32:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 62
+[04-Jul-2018 23:33:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 61
+[05-Jul-2018 00:06:16 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 65
+[05-Jul-2018 01:17:43 UTC] PHP Parse error:  syntax error, unexpected '"posts_per_page"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 23
+[05-Jul-2018 01:18:03 UTC] PHP Parse error:  syntax error, unexpected '"post_type"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 23
+[05-Jul-2018 01:18:20 UTC] PHP Parse error:  syntax error, unexpected ''post_type'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 23
+[05-Jul-2018 01:19:39 UTC] PHP Parse error:  syntax error, unexpected '"post_type"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 23
+[05-Jul-2018 01:21:08 UTC] PHP Parse error:  syntax error, unexpected ''key'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 31
+[05-Jul-2018 01:22:03 UTC] PHP Parse error:  syntax error, unexpected ''key'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 30
+[05-Jul-2018 01:22:38 UTC] PHP Parse error:  syntax error, unexpected '"post_type"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 23
+[05-Jul-2018 01:24:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 37
+[05-Jul-2018 01:25:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 38
+[05-Jul-2018 01:25:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 38
+[05-Jul-2018 01:27:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 42
+[05-Jul-2018 01:27:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 42
+[05-Jul-2018 22:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/fictional_university_theme/single-program.php:46
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/single-program.php on line 46
+[06-Jul-2018 00:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function page_banner_subtitle() in /app/public/wp-content/themes/fictional_university_theme/page.php:11
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/page.php on line 11
+[06-Jul-2018 00:31:33 UTC] PHP Parse error:  syntax error, unexpected 'wp_reset_postdata' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/index.php on line 2
+[06-Jul-2018 00:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_archive_field() in /app/public/wp-content/themes/fictional_university_theme/index.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 8
+[06-Jul-2018 00:32:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_archive_field() in /app/public/wp-content/themes/fictional_university_theme/index.php:8
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 8
+[06-Jul-2018 00:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_field() in /app/public/wp-content/themes/fictional_university_theme/index.php:10
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 10
+[06-Jul-2018 01:13:05 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 7
+[06-Jul-2018 01:13:05 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 7
+[06-Jul-2018 01:14:08 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 9
+[06-Jul-2018 01:14:08 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/page.php on line 9
+[06-Jul-2018 01:34:26 UTC] PHP Parse error:  syntax error, unexpected ''<div class="page-banner">'' (T_CONSTANT_ENCAPSED_STRING) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 41
+[06-Jul-2018 01:36:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 42
+[06-Jul-2018 01:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setHeight() in /app/public/wp-content/themes/fictional_university_theme/front-page.php:12
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 12
+[06-Jul-2018 01:39:04 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting '{' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 41
+[06-Jul-2018 01:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setHeight() in /app/public/wp-content/themes/fictional_university_theme/front-page.php:12
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 12
+[06-Jul-2018 01:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function setHeight() in /app/public/wp-content/themes/fictional_university_theme/front-page.php:12
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 12
+[06-Jul-2018 01:44:28 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 42
+[06-Jul-2018 01:46:14 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 42
+[06-Jul-2018 01:46:29 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 42
+[06-Jul-2018 01:47:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/index.php on line 3 and at least 2 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:44
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/index.php(3): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[06-Jul-2018 01:47:51 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 17:38:28 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 17:52:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /app/public/wp-content/themes/fictional_university_theme/archive-event.php on line 3
+[07-Jul-2018 18:12:48 UTC] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:21:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:13 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:15 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:27 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 45
+[07-Jul-2018 18:23:54 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 18:24:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/fictional_university_theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 1
+[07-Jul-2018 18:24:20 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 18:24:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/archive-event.php on line 2 and exactly 1 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:50
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/archive-event.php(2): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 18:25:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 55
+[07-Jul-2018 18:26:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/fictional_university_theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/index.php on line 1
+[07-Jul-2018 18:28:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in /app/public/wp-content/themes/fictional_university_theme/archive-event.php:3
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive-event.php on line 3
+[07-Jul-2018 18:30:30 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:31:32 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:31:33 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:31:33 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:31:34 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:32:07 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:32:39 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:33:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 49
+[07-Jul-2018 18:33:31 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 18:33:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/page.php on line 17 and exactly 1 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:50
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/page.php(17): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 18:42:10 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:42:55 UTC] PHP Parse error:  syntax error, unexpected '=', expecting variable (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 18:48:16 UTC] PHP Fatal error:  Constant expression contains invalid operations in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 43
+[07-Jul-2018 18:51:47 UTC] PHP Parse error:  syntax error, unexpected 'banner' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/archive.php on line 2
+[07-Jul-2018 18:55:51 UTC] PHP Parse error:  syntax error, unexpected 'banner' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/archive-program.php on line 2
+[07-Jul-2018 18:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_archive_title() in /app/public/wp-content/themes/fictional_university_theme/archive.php:2
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive.php on line 2
+[07-Jul-2018 19:05:50 UTC] PHP Parse error:  syntax error, unexpected 'banner' (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/page-past-events.php on line 2
+[07-Jul-2018 19:25:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 47
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 59
+[07-Jul-2018 19:25:49 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 61
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 47
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 59
+[07-Jul-2018 19:27:14 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 61
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 47
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 50
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 59
+[07-Jul-2018 19:27:38 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 61
+[07-Jul-2018 19:29:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 47
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 44
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 48
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 51
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 57
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 58
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 58
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 60
+[07-Jul-2018 19:29:08 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 62
+[07-Jul-2018 19:30:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/page.php on line 5 and exactly 1 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:43
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/page.php(5): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 43
+[07-Jul-2018 19:32:30 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:32:30 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:32:32 UTC] PHP Warning:  Illegal string offset 'sizes' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:32:32 UTC] PHP Warning:  Illegal string offset 'banner' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 56
+[07-Jul-2018 19:37:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/index.php on line 3 and exactly 1 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:41
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/index.php(3): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 41
+[07-Jul-2018 19:38:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/index.php on line 5
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 42
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 51
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 60
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'background_image' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 73
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'title' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 76
+[07-Jul-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'subtitle' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 78
+[07-Jul-2018 19:46:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function banner(), 0 passed in /app/public/wp-content/themes/fictional_university_theme/page-past-events.php on line 1 and exactly 1 expected in /app/public/wp-content/themes/fictional_university_theme/functions.php:41
+Stack trace:
+#0 /app/public/wp-content/themes/fictional_university_theme/page-past-events.php(1): banner()
+#1 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 41
+[07-Jul-2018 20:46:58 UTC] PHP Fatal error:  Cannot redeclare get_template_part() (previously declared in /app/public/wp-includes/general-template.php:134) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 85
+[07-Jul-2018 21:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_event_summary() in /app/public/wp-content/themes/fictional_university_theme/front-page.php:33
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 33
+[07-Jul-2018 21:03:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_event_summary() in /app/public/wp-content/themes/fictional_university_theme/front-page.php:33
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/front-page.php on line 33
+[07-Jul-2018 21:09:12 UTC] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL) in /app/public/wp-content/themes/fictional_university_theme/template-parts/content-event.php on line 3
+[07-Jul-2018 21:09:21 UTC] PHP Parse error:  syntax error, unexpected 'Global' (T_GLOBAL) in /app/public/wp-content/themes/fictional_university_theme/template-parts/content-event.php on line 3
+[07-Jul-2018 21:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in /app/public/wp-content/themes/fictional_university_theme/template-parts/content-event.php:13
+Stack trace:
+#0 /app/public/wp-includes/template.php(690): require()
+#1 /app/public/wp-includes/template.php(647): load_template('/app/public/wp-...', false)
+#2 /app/public/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /app/public/wp-content/themes/fictional_university_theme/archive-event.php(20): get_template_part('template-parts/...', 'event')
+#4 /app/public/wp-includes/template-loader.php(74): include('/app/public/wp-...')
+#5 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#6 /app/public/index.php(17): require('/app/public/wp-...')
+#7 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/template-parts/content-event.php on line 13
+[07-Jul-2018 21:24:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/page-past-events.php on line 33
+[08-Jul-2018 03:10:03 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 36
+[08-Jul-2018 03:10:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 36
+[08-Jul-2018 03:10:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 36
+[08-Jul-2018 19:51:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php on line 32
+[08-Jul-2018 19:52:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php on line 32
+[08-Jul-2018 21:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php:4
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php on line 4
+[08-Jul-2018 21:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pageBanner() in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php:4
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/archive-campus.php on line 4
+[14-Jul-2018 03:38:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 49
+[14-Jul-2018 03:38:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 49
+[16-Jul-2018 20:37:48 UTC] PHP Warning:  require(/app/public/wp-content/themes/fictional_university_theme/inc/search-route): failed to open stream: No such file or directory in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 3
+[16-Jul-2018 20:37:48 UTC] PHP Fatal error:  require(): Failed opening required '/app/public/wp-content/themes/fictional_university_theme/inc/search-route' (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 3
+[16-Jul-2018 20:47:27 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 13
+[16-Jul-2018 20:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_GET' not found in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:7
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): universityRegisterSearch(Object(WP_REST_Server))
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/rest-api.php(432): do_action('rest_api_init', Object(WP_REST_Server))
+#4 /app/public/wp-includes/rest-api.php(259): rest_get_server()
+#5 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#6 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#7 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#8 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#9 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#10 /app/public/wp-includes/functions.php(960): WP->main('')
+#11 /app/public/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 7
+[17-Jul-2018 00:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_the_title() on array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:26
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): re in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 26
+[17-Jul-2018 00:24:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:26
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 26
+[17-Jul-2018 00:25:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:26
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 26
+[17-Jul-2018 00:25:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:26
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 26
+[17-Jul-2018 00:28:04 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:26
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 26
+[17-Jul-2018 00:29:55 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:27
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/ in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 27
+[17-Jul-2018 00:30:52 UTC] PHP Parse error:  syntax error, unexpected ''ID'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 27
+[17-Jul-2018 00:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_the_title() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:27
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): req in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 27
+[17-Jul-2018 00:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_the_title() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:27
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): req in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 27
+[17-Jul-2018 01:58:05 UTC] PHP Parse error:  syntax error, unexpected ''programs: '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:20:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:20:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:20:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:20:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:20:03 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 49
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 49
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 49
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 40
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 40
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 40
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 52
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 02:21:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:43) in /app/public/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[17-Jul-2018 21:58:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 21:58:15 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 46
+[17-Jul-2018 21:58:56 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 47
+[17-Jul-2018 22:03:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 85
+[17-Jul-2018 22:03:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:06:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 73
+[17-Jul-2018 22:07:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 85
+[17-Jul-2018 22:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 85
+[17-Jul-2018 22:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 85
+[17-Jul-2018 22:08:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 85
+[17-Jul-2018 22:10:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 74
+[17-Jul-2018 22:10:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 74
+[17-Jul-2018 22:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function length() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:91
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/app/pub in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function length() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:76
+Stack trace:
+#0 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): universitySearchResults(Object(WP_REST_Request))
+#1 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/university/v1/...')
+#3 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /app/public/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#6 /app/public/wp-includes/class-wp.php(373): do_action_ref_array('parse_request', Array)
+#7 /app/public/wp-includes/class-wp.php(713): WP->parse_request('')
+#8 /app/public/wp-includes/functions.php(960): WP->main('')
+#9 /app/public/wp-blog-header.php(16): wp()
+#10 /app/public/index.php(17): require('/app/pub in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 76
+[17-Jul-2018 22:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:15:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:16:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:16:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:16:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:16:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:16:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 77
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:31:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 92
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:42 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 99
+[17-Jul-2018 22:33:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 91
+[17-Jul-2018 22:34:57 UTC] PHP Parse error:  syntax error, unexpected '$relatedPrograms' (T_VARIABLE), expecting identifier (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 22:35:46 UTC] PHP Parse error:  syntax error, unexpected '$relatedPrograms' (T_VARIABLE), expecting identifier (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 22:35:48 UTC] PHP Parse error:  syntax error, unexpected '$relatedPrograms' (T_VARIABLE), expecting identifier (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 22:36:12 UTC] PHP Parse error:  syntax error, unexpected '$relatedPrograms' (T_VARIABLE), expecting identifier (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 22:36:15 UTC] PHP Parse error:  syntax error, unexpected '$relatedPrograms' (T_VARIABLE), expecting identifier (T_STRING) in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 43
+[17-Jul-2018 22:38:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:38:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 21
+[17-Jul-2018 22:38:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 100
+[17-Jul-2018 22:38:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 21
+[17-Jul-2018 22:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:41:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:42:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 71
+[17-Jul-2018 22:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 94
+[17-Jul-2018 22:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 112
+[17-Jul-2018 22:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 112
+[17-Jul-2018 22:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 112
+[17-Jul-2018 22:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 112
+[17-Jul-2018 22:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 112
+[17-Jul-2018 22:51:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:51:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:51:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:51:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:51:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[17-Jul-2018 22:53:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 95
+[19-Jul-2018 19:25:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 124
+[19-Jul-2018 19:25:01 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 21
+[19-Jul-2018 19:36:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 159
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:149) in /app/public/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 149
+[19-Jul-2018 19:37:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php:149) in /app/public/wp-includes/rest-api/class-wp-rest-server.php on line 1248
+[19-Jul-2018 19:48:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 151
+[19-Jul-2018 19:49:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 150
+[19-Jul-2018 19:52:18 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 151
+[19-Jul-2018 19:52:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 151
+[19-Jul-2018 20:27:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 200
+[19-Jul-2018 20:44:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 140
+[19-Jul-2018 20:45:27 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 140
+[19-Jul-2018 20:45:56 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 145
+[20-Jul-2018 04:23:43 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 86
+[20-Jul-2018 04:25:43 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 86
+[20-Jul-2018 04:26:44 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 86
+[20-Jul-2018 04:26:48 UTC] PHP Parse error:  syntax error, unexpected ''orderby'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/fictional_university_theme/inc/search-route.php on line 86
+[20-Jul-2018 21:52:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 105
+[20-Jul-2018 21:53:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 106
+[20-Jul-2018 21:58:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 108
+[20-Jul-2018 22:00:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 110
+[20-Jul-2018 22:56:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 35
+[20-Jul-2018 22:57:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 31
+[20-Jul-2018 22:57:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/fictional_university_theme/search.php on line 31
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 948
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 949
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 950
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 951
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 952
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 953
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 956
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 957
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 960
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 961
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 962
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 963
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 966
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 967
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 968
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 969
+[25-Jul-2018 17:05:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 972
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 948
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 949
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 950
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 951
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 952
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 953
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 956
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 957
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 960
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 961
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 962
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 963
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 966
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 967
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 968
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 969
+[25-Jul-2018 17:06:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /app/public/wp-includes/general-template.php:2779) in /app/public/wp-includes/pluggable.php on line 972
+[25-Jul-2018 19:22:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 58
+[30-Jul-2018 16:04:25 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in /app/public/wp-includes/class-wp-query.php on line 734
+[30-Jul-2018 16:05:33 UTC] PHP Recoverable fatal error:  Object of class WP_User could not be converted to string in /app/public/wp-includes/class-wp-query.php on line 734
+[03-Aug-2018 03:24:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/404.php on line 7
+[03-Aug-2018 03:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/fictional_university_theme/404.php:21
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional_university_theme/404.php on line 21
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2275
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2307
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2338
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2877
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2077
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:37:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:37:53 UTC] WordPress database error Column count doesn't match value count at row 1 for query INSERT INTO `wp_posts` (``) VALUES () made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Posts_Controller->create_item, wp_insert_post
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2275
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2307
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2338
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2877
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2077
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:37:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:37:55 UTC] WordPress database error Column count doesn't match value count at row 1 for query INSERT INTO `wp_posts` (``) VALUES () made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Posts_Controller->create_item, wp_insert_post
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2275
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2307
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2338
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2877
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/wp-db.php on line 2077
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:38:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/wp-db.php on line 2087
+[03-Aug-2018 22:38:29 UTC] WordPress database error Column count doesn't match value count at row 1 for query INSERT INTO `wp_posts` (``) VALUES () made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Posts_Controller->create_item, wp_insert_post
+[03-Aug-2018 23:16:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_title_field() in /app/public/wp-content/themes/fictional_university_theme/functions.php:94
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3449): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#8 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#9  in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 94
+[03-Aug-2018 23:16:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_title_field() in /app/public/wp-content/themes/fictional_university_theme/functions.php:94
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3449): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(530): wp_insert_post(Array, true)
+#4 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->create_item(Object(WP_REST_Request))
+#5 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#6 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note')
+#7 /app/public/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#8 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#9  in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 94
+[03-Aug-2018 23:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_input_field() in /app/public/wp-content/themes/fictional_university_theme/functions.php:94
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3449): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/post.php(3746): wp_insert_post(Array, false)
+#4 /app/public/wp-includes/post.php(2758): wp_update_post(Array)
+#5 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(819): wp_trash_post(196)
+#6 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->delete_item(Object(WP_REST_Request))
+#7 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note/196')
+#9 /app/public/wp-includes/class-wp in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 94
+[03-Aug-2018 23:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_input_field() in /app/public/wp-content/themes/fictional_university_theme/functions.php:94
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3449): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/post.php(3746): wp_insert_post(Array, false)
+#4 /app/public/wp-includes/post.php(2758): wp_update_post(Array)
+#5 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(819): wp_trash_post(196)
+#6 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->delete_item(Object(WP_REST_Request))
+#7 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note/196')
+#9 /app/public/wp-includes/class-wp in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 94
+[03-Aug-2018 23:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_input_field() in /app/public/wp-content/themes/fictional_university_theme/functions.php:94
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(288): makeNotePrivate(Array)
+#1 /app/public/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /app/public/wp-includes/post.php(3449): apply_filters('wp_insert_post_...', Array, Array)
+#3 /app/public/wp-includes/post.php(3746): wp_insert_post(Array, false)
+#4 /app/public/wp-includes/post.php(2758): wp_update_post(Array)
+#5 /app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php(819): wp_trash_post(196)
+#6 /app/public/wp-includes/rest-api/class-wp-rest-server.php(936): WP_REST_Posts_Controller->delete_item(Object(WP_REST_Request))
+#7 /app/public/wp-includes/rest-api/class-wp-rest-server.php(321): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#8 /app/public/wp-includes/rest-api.php(266): WP_REST_Server->serve_request('/wp/v2/note/196')
+#9 /app/public/wp-includes/class-wp in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 94
+[04-Aug-2018 00:09:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 95
+[04-Aug-2018 00:09:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 95
+[04-Aug-2018 00:09:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 95
+[04-Aug-2018 00:10:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 95
+[04-Aug-2018 00:12:58 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 95
+[04-Aug-2018 00:53:54 UTC] PHP Warning:  Illegal string offset 'url' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 00:54:13 UTC] PHP Warning:  Illegal string offset 'url' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 00:54:16 UTC] PHP Warning:  Illegal string offset 'url' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 00:54:17 UTC] PHP Warning:  Illegal string offset 'url' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:04:17 UTC] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:04:45 UTC] PHP Warning:  Illegal string offset 'URL' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:04:52 UTC] PHP Warning:  Illegal string offset 'URL' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:05:05 UTC] PHP Warning:  Illegal string offset 'URL' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:05:12 UTC] PHP Warning:  Illegal string offset 'URL' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:34:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 01:35:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 99
+[04-Aug-2018 23:03:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/fictional_university_theme/functions.php on line 15
