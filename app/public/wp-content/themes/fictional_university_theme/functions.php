@@ -199,7 +199,7 @@
 	}
 
 	function getNoteLimit(){
-		return 10;
+		return 6;
 	}
 
 	?>

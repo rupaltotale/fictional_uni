@@ -17,6 +17,11 @@ $eventDate = get_field('event_date');
 				}?>
 			</div>
 			<div class="two-thirds">
+			<span class="like-box" id = "<?php echo get_the_ID() ?>">
+				<i class="fa fa-heart-o" aria-hidden="true"></i>
+				<i class="fa fa-heart" aria-hidden="true"></i>
+				<span class="like-count">3</span>
+			</span>
 				<?php the_content() ?>
 			</div>
 		</div>

@@ -8,7 +8,7 @@ class Notes{
 		this.isEditting = false;
 		this.prevTitle = "";
 		this.prevBody = "";
-		this.count = universityData.noteCount;
+		// this.count = universityData.noteCount;
 
 	}
 
@@ -40,8 +40,8 @@ class Notes{
 			success: (response) =>{
 				note.slideUp();
 				console.log(response);
-				this.count--;
-				if(this.count <= (universityData.noteLimit -1) ){
+				// this.count--;
+				if(response.noteCount <= (universityData.noteLimit -1) ){
 					$(".note-limit-message").removeClass("active");
 				}
 			},
@@ -136,7 +136,7 @@ class Notes{
 						`);
 					$(`#${noteID}`).slideToggle('slow');
 					$(".alert").html("");
-					this.count++;
+					// this.count++;
 
 					console.log(response);
 
