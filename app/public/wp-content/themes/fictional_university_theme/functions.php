@@ -81,7 +81,7 @@
 		}
 
 	}
-	function outHeaderURL(){
+	function ourHeaderURL(){
 		return esc_url(site_url('/'));
 	}
 
@@ -96,7 +96,7 @@
 	// 	if(count_user_posts(get_current_user_id(), 'note') > 5){
 	// 		return "Over";
 	// 	}
-		
+
 	// }
 	function makeNotePrivate($post){
 
@@ -114,14 +114,15 @@
 		}
 		return $post;
 	}
-	function remove_private_from_title($title){
-		$title = esc_attr($title);
-		$find = array('#Private: #');
-		$replace = array('');
-		$title = preg_replace($find, $replace, $title);
-		return $title;
 
-	}
+	// function userLikesArray($post){
+	// 	$post_id = $post->ID;
+	// 	if ($post['post_type'] == 'professor' && !get_post_meta($post_id, 'userLikesArray', true )){
+	// 		add_post_meta($post_id, 'userLikesArray', array(1,2,3));
+	// 		return $post;
+	// 	}
+	// }
+	
 
 
 
@@ -133,74 +134,124 @@
 	add_action('admin_init', 'redirectSubsToFrontend');
 	add_action('wp_logout','redirectToFrontPageAfterLogout');
 	add_action('wp_loaded','noSubsAdminBar');
-	add_filter('login_headerurl', 'outHeaderURL');
+	add_filter('login_headerurl', 'ourHeaderURL');
 	add_action('login_enqueue_scripts', 'ourLoginPageCSS');
 	add_filter('login_headertitle', 'ourLoginTitle');
 	add_filter('wp_insert_post_data', 'makeNotePrivate');
+	add_filter('add_user_metadata', 'userLikesArray');
+
+	function my_ajax_cb_wpse_108143() {
+		$userLikesArray = array();
+		update_post_meta($_POST['id'], 'userLikesArray', $userLikesArray);
+	}
+	add_action('wp_ajax_my_update_pm', 'my_ajax_cb_wpse_108143');
+	add_action('wp_ajax_nopriv_my_update_pm', 'my_ajax_cb_wpse_108143');
+
+// 	function my_enqueue($hook) {
+//     if( 'index.php' != $hook ) return;  // Only applies to dashboard panel
+//     wp_enqueue_script( 'ajax-script', plugins_url( '/js/my_query.js', __FILE__ ), array('jquery'));
+//     // in javascript, object properties are accessed as ajax_object.ajax_url, ajax_object.we_value
+//     wp_localize_script( 'ajax-script', 'ajax_object',
+//     	array( 'ajax_url' => admin_url( 'admin-ajax.php' ), 'we_value' => $email_nonce ) );
+// }
+// add_action( 'admin_enqueue_scripts', 'my_enqueue' );
+
+
+	// function aa_user_update($user, $request, $create)
+	// {
+	// 	if ($request['meta']) {
+	// 		$user_id = $user->ID;
+	// 		foreach ($request['meta'] as $key => $value) {
+	// 			update_user_meta( $user_id, $key, $value );
+	// 		}
+	// 	}
+	// }
+	// add_action( 'rest_insert_user', 'aa_user_update', 12, 3 );
+	// add_action('wp_ajax_load_custom_field_data','load_custom_field_data');
+	// add_action('wp_ajax_nopriv_load_custom_field_data','load_custom_field_data');
+
+	// function load_custom_fields_data(){
+	// 	if ($post['post_type'] == 'professor'){
+	// 	$postid=$_POST['postid'];
+	// 	$metakey= 'userLikesArray';
+	// 	return get_post_meta($postid,$metakey,true);
+	// 	die();
+	// }
+// }
+
 	// add_filter('the_title', 'remove_private_from_title'); I DID THIS ANOTHER WAY SEE PAGE-MY-NOTES.PHP
+
+	// function remove_private_from_title($title){
+	// 	$title = esc_attr($title);
+	// 	$find = array('#Private: #');
+	// 	$replace = array('');
+	// 	$title = preg_replace($find, $replace, $title);
+	// 	return $title;
+
+	// }
 
 
 
  // PAGE BANNER FUNCTION
 
-	function banner($args =NULL){ 
-		if(!$args['title']){
-			if(get_the_title()){
-				$args['title'] = get_the_title();
-			}
-			else{
-				$args['title'] = "Page Not Found";
-			}
-
+function banner($args =NULL){ 
+	if(!$args['title']){
+		if(get_the_title()){
+			$args['title'] = get_the_title();
 		}
-		if(!$args['subtitle']){
-			if(get_field('page_banner_subtitle')){
-				$args['subtitle'] = get_field('page_banner_subtitle');
-			}
+		else{
+			$args['title'] = "Page Not Found";
+		}
+
+	}
+	if(!$args['subtitle']){
+		if(get_field('page_banner_subtitle')){
+			$args['subtitle'] = get_field('page_banner_subtitle');
+		}
 			// else{
 			// 	$args['subtitle'] = "Lorem Ipsum Dorem Lit";
 			// }
 
+	}
+	if(!$args['background_image']){
+		if(get_field('page_banner_background_image')){
+			$args['background_image'] = get_field('page_banner_background_image')['sizes']['banner'];
 		}
-		if(!$args['background_image']){
-			if(get_field('page_banner_background_image')){
-				$args['background_image'] = get_field('page_banner_background_image')['sizes']['banner'];
-			}
-			else{
-				$args['background_image'] = get_theme_file_uri('images/ocean.jpg');
-			}
+		else{
+			$args['background_image'] = get_theme_file_uri('images/ocean.jpg');
+		}
 
 
-		}
-		?>
-		<div class="page-banner">
-			<div class="page-banner__bg-image" style="background-image: url(<?php 
-			echo $args['background_image'];?>)"></div>
-			<div class="page-banner__content container container--narrow">
-				<h1 class="page-banner__title"><?php echo $args['title']; ?></h1>
-				<div class="page-banner__intro">
-					<p><?php echo $args['subtitle']; ?></p>
-				</div>
+	}
+	?>
+	<div class="page-banner">
+		<div class="page-banner__bg-image" style="background-image: url(<?php 
+		echo $args['background_image'];?>)"></div>
+		<div class="page-banner__content container container--narrow">
+			<h1 class="page-banner__title"><?php echo $args['title']; ?></h1>
+			<div class="page-banner__intro">
+				<p><?php echo $args['subtitle']; ?></p>
 			</div>
 		</div>
+	</div>
 
-		<?php 
-	} 
-	function getSearchBox(){
-		?>
-		<form class="search-form" method="get" action="<?php echo esc_url(site_url('/')); ?>">
-			<label class="headline headline--medium" for="s">Perform a new search: </label>
-			<div class="search-form-row">
-				<input placeholder = "What are you looking for?" class="s" id="s" type="search" name="s">
-				<input class="search-submit" type = "submit" value="Search">
-			</div>
-		</form>
-		<?
-	}
-
-	function getNoteLimit(){
-		return 6;
-	}
-
+	<?php 
+} 
+function getSearchBox(){
 	?>
+	<form class="search-form" method="get" action="<?php echo esc_url(site_url('/')); ?>">
+		<label class="headline headline--medium" for="s">Perform a new search: </label>
+		<div class="search-form-row">
+			<input placeholder = "What are you looking for?" class="s" id="s" type="search" name="s">
+			<input class="search-submit" type = "submit" value="Search">
+		</div>
+	</form>
+	<?
+}
+
+function getNoteLimit(){
+	return 6;
+}
+
+?>
 

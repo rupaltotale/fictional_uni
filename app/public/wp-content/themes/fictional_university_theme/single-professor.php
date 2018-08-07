@@ -1,10 +1,16 @@
 <?php get_header(); 
 the_post();
-banner();?>
+banner();
 
-<?php 
-$today = date('Ymd');
-$eventDate = get_field('event_date');
+$post_id = $post->ID;
+if (!get_post_meta($post_id, 'userLikesArray', true )){
+	add_post_meta($post_id, 'userLikesArray', array());
+}
+
+$userLoggedIn = true;
+$userLikes = false;
+$post_id = $post->ID;
+$userLikesArray = get_post_meta(get_the_id(), 'userLikesArray', true );
 
 ?>
 <div class="container container--narrow page-section">
@@ -17,12 +23,23 @@ $eventDate = get_field('event_date');
 				}?>
 			</div>
 			<div class="two-thirds">
-			<span class="like-box" id = "<?php echo get_the_ID() ?>">
-				<i class="fa fa-heart-o" aria-hidden="true"></i>
-				<i class="fa fa-heart" aria-hidden="true"></i>
-				<span class="like-count">3</span>
-			</span>
-				<?php the_content() ?>
+				<span class="like-box" id = "<?php echo get_the_ID() ?>" 
+					<?php if ($userLoggedIn && $userLikes) {
+						echo 'data-exists="yes"';
+					} else{
+						echo 'data-exists="no"';
+					}
+					?>
+					>
+					<i class="fa fa-heart-o" id = "like-button" aria-hidden="true"></i>
+					<i class="fa fa-heart" id = "like-button" aria-hidden="true"></i>
+					<span class="like-count"><?php echo sizeof($userLikesArray) ?></span>
+				</span>
+				<?php 
+				the_content(); 
+				print_r(get_post());
+				
+				?>
 			</div>
 		</div>
 

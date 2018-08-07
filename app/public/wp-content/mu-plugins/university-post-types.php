@@ -41,8 +41,10 @@
 			));
 		// Professor Post Type
 		register_post_type('professor', array(
+			'capability_type' => 'professor',
+			'map_meta_cap' => true,
 			'show_in_rest' => true,
-			'supports' => array('title', 'editor', 'thumbnail'),
+			'supports' => array('title', 'editor', 'thumbnail', 'custom-fields'),
 			'public' =>true,
 			'menu_icon' => 'dashicons-welcome-learn-more',
 			'labels' => array(

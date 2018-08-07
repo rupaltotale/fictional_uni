@@ -8,9 +8,11 @@ import HeroSlider from './modules/HeroSlider';
 import GoogleMap from './modules/GoogleMap';
 import Search from './modules/Search';
 import Notes from './modules/Notes';
+import ProfessorLikes from './modules/ProfessorLikes';
 // Instantiate a new object using our modules/classes
 var mobileMenu = new MobileMenu();
 var heroSlider = new HeroSlider();
 var googleMap = new GoogleMap();
 var magicalSearch = new Search();
 var notes = new Notes();
+var professorLikes = new ProfessorLikes();
