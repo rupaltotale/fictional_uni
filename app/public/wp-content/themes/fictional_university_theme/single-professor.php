@@ -7,10 +7,10 @@ if (!get_post_meta($post_id, 'userLikesArray', true )){
 	add_post_meta($post_id, 'userLikesArray', array());
 }
 
-$userLoggedIn = true;
-$userLikes = false;
 $post_id = $post->ID;
 $userLikesArray = get_post_meta(get_the_id(), 'userLikesArray', true );
+$userLoggedIn = is_user_logged_in();
+$userLikes = in_array (get_current_user_id() , $userLikesArray);
 
 ?>
 <div class="container container--narrow page-section">
@@ -26,8 +26,11 @@ $userLikesArray = get_post_meta(get_the_id(), 'userLikesArray', true );
 				<span class="like-box" id = "<?php echo get_the_ID() ?>" 
 					<?php if ($userLoggedIn && $userLikes) {
 						echo 'data-exists="yes"';
-					} else{
+					} else if ($userLoggedIn && !$userLikes){
 						echo 'data-exists="no"';
+					}
+					else{
+						echo 'data-exists="idk"';
 					}
 					?>
 					>
@@ -37,7 +40,11 @@ $userLikesArray = get_post_meta(get_the_id(), 'userLikesArray', true );
 				</span>
 				<?php 
 				the_content(); 
-				print_r(get_post());
+				print_r($userLikesArray);
+				// array_push($userLikesArray, 13);
+				// print_r($userLikesArray);
+
+				// update_post_meta(get_the_ID(), 'userLikesArray', $userLikesArray);
 				
 				?>
 			</div>

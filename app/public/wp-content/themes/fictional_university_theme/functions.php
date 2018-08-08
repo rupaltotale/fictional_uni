@@ -141,7 +141,15 @@
 	add_filter('add_user_metadata', 'userLikesArray');
 
 	function my_ajax_cb_wpse_108143() {
-		$userLikesArray = array();
+		$userLikesArray = get_post_meta($_POST['id'], 'userLikesArray', true);
+		
+		if(!in_array (get_current_user_id() , $userLikesArray)){
+			array_push($userLikesArray, get_current_user_id());
+		}
+		else{
+			$userLikesArray = array_diff($userLikesArray, array(get_current_user_id()));
+		}
+		
 		update_post_meta($_POST['id'], 'userLikesArray', $userLikesArray);
 	}
 	add_action('wp_ajax_my_update_pm', 'my_ajax_cb_wpse_108143');

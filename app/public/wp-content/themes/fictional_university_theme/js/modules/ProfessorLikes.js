@@ -27,11 +27,10 @@ class ProfessorLikes{
 		var data = {
 			action: 'my_update_pm',
 			id: profID, 
-			cote: 'like'
 		};
 		$.post(ajax_url, data, function(response) {
-    // whatever you need to do; maybe nothing
-});
+    
+		});
 		if(this.likeBox.data("exists") == "yes"){
 			// disliking
 			this.likeBox.data("exists", "no");
@@ -40,7 +39,7 @@ class ProfessorLikes{
 			this.likeCountSpan.html(this.likeCount);
 			
 		}
-		else{
+		else if(this.likeBox.data("exists") == "no"){
 			//liking
 			this.likeBox.data("exists", "yes");
 			this.likeBox.attr('data-exists','yes');	
