@@ -1,6 +1,6 @@
 This project is a Website developed locally. 
 
-This website is a Wordpress website with a custom theme made with HTML, CSS, PHP, JavaScript, jQuery, JSON, and AJAX requests. 
+The website is a Wordpress website with a custom theme made with HTML, CSS, PHP, JavaScript, jQuery, JSON, and AJAX requests. 
 
 It is a Fictional university website with post types such as Pages, Post, Programs, Events, Professors, and Campuses. Each post type has its own page template, archive template, and relationships with other post types. 
 
