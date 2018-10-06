@@ -11,6 +11,7 @@ $post_id = $post->ID;
 $userLikesArray = get_post_meta(get_the_id(), 'userLikesArray', true );
 $userLoggedIn = is_user_logged_in();
 $userLikes = in_array (get_current_user_id() , $userLikesArray);
+// update_post_meta($post_id, 'userLikesArray', array());
 
 ?>
 <div class="container container--narrow page-section">

@@ -23,14 +23,62 @@ class ProfessorLikes{
 	likeOrDislikeNote(){
 		var profID = this.likeBox.attr('id');
 		console.log(profID);
-		var ajax_url = "http://fictional-uni.local/wp-admin/admin-ajax.php";
+		var ajax_url = universityData.ajax_url;
+
 		var data = {
-			action: 'my_update_pm',
-			id: profID, 
+			'userLikesArray' : ['Apple', 'Banana'],
+			// action: 'like_prof',
+			// id: profID, 
 		};
-		$.post(ajax_url, data, function(response) {
-    
+		// $.post(ajax_url, data, function(response) {
+		// 	console.log(response);
+		// });
+		$.ajax({
+			method: "POST",
+			url: universityData.root_url + '/wp-json/university/v1/prof?ID=' + profID,
+			data: data,
+			beforeSend: function ( xhr ) {
+				xhr.setRequestHeader( 'X-WP-Nonce', universityData.nonce );
+			},
+			success : function( response ) {
+				console.log("Yay, it works");
+				console.log(response);
+			},
+			error: function(response){
+				console.log("Nay, it doesn't work");
+			}
 		});
+		$.ajax({
+			method: "GET",
+			url: universityData.root_url + '/wp-json/university/v1/prof?ID=' + profID,
+			// data: data,
+			beforeSend: function ( xhr ) {
+				xhr.setRequestHeader( 'X-WP-Nonce', universityData.nonce );
+			},
+			success : function( response ) {
+				console.log("Yay, it works");
+				console.log(response);
+			},
+			error: function(response){
+				console.log("Nay, it doesn't work");
+			}
+		});
+		// $.ajax({
+		// 	method: "POST",
+		// 	url: universityData.root_url + '/wp-json/wp/v2/professor/' + profID,
+		// 	data: {
+		// 		content: "Subscriber can edit this professor",
+		// 	},
+		// 	beforeSend: function ( xhr ) {
+		// 		xhr.setRequestHeader( 'X-WP-Nonce', universityData.nonce );
+		// 	},
+		// 	success : function( response ) {
+		// 		console.log(response);
+		// 	},
+		// 	error: function(response){
+		// 		console.log(response)
+		// 	}
+		// });
 		if(this.likeBox.data("exists") == "yes"){
 			// disliking
 			this.likeBox.data("exists", "no");

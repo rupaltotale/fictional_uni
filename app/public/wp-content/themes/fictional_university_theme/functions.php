@@ -1,6 +1,7 @@
 	<?php
 
 	require get_theme_file_path('/inc/search-route.php');
+	require get_theme_file_path('/inc/likesForProfessor.php');
 
 	function university_files(){
 		wp_enqueue_script('googleMap','//maps.googleapis.com/maps/api/js?key=AIzaSyARvnayzLUq45FnVHAjYLDmV8XgZQiFDAk', NULL, microtime(), true);
@@ -13,6 +14,7 @@
 			'nonce' => wp_create_nonce( 'wp_rest' ),
 			'noteCount' => count_user_posts(get_current_user_id(), 'note'),
 			'noteLimit' => getNoteLimit(),
+			'ajax_url' => admin_url('admin-ajax.php'),
 			));
 	}
 
@@ -56,6 +58,7 @@
 		register_rest_field('note', 'noteCount', array(
 			'get_callback' => function() {return count_user_posts(get_current_user_id(), 'note');},
 			));
+
 	}
 	function redirectSubsToFrontend(){
 		$currentUser = wp_get_current_user();
@@ -140,20 +143,19 @@
 	add_filter('wp_insert_post_data', 'makeNotePrivate');
 	add_filter('add_user_metadata', 'userLikesArray');
 
-	function my_ajax_cb_wpse_108143() {
-		$userLikesArray = get_post_meta($_POST['id'], 'userLikesArray', true);
-		
+	add_action('wp_ajax_like_prof', 'likeProfessor');
+
+	function likeProfessor() {
+		$userLikesArray = get_post_meta($_POST['id'], 'userLikesArray');
 		if(!in_array (get_current_user_id() , $userLikesArray)){
 			array_push($userLikesArray, get_current_user_id());
 		}
 		else{
 			$userLikesArray = array_diff($userLikesArray, array(get_current_user_id()));
 		}
-		
 		update_post_meta($_POST['id'], 'userLikesArray', $userLikesArray);
 	}
-	add_action('wp_ajax_my_update_pm', 'my_ajax_cb_wpse_108143');
-	add_action('wp_ajax_nopriv_my_update_pm', 'my_ajax_cb_wpse_108143');
+	// add_action('wp_ajax_nopriv_like_prof', 'likeProfessor');
 
 // 	function my_enqueue($hook) {
 //     if( 'index.php' != $hook ) return;  // Only applies to dashboard panel
